@@ -51,7 +51,9 @@ src/
  └─ main.js
 ```
 
-🎨 Layout e responsividade
+---
+
+## 🎨 Layout e responsividade
 
 - Sidebar fixa no desktop
 - Menu colapsável no mobile
@@ -59,7 +61,9 @@ src/
 - Estilos globais definidos no App.vue
 - Estilos específicos com scoped
 
-▶️ Como rodar o projeto localmente
+---
+
+## ▶️ Como rodar o projeto localmente
 
 Pré-requisitos
 - Node.js (versão 18 ou superior)
@@ -80,5 +84,7 @@ Build para produção
 npm run build
 ```
 
-✨ Observações
+---
+
+## ✨ Observações
 Este projeto está em constante evolução e será atualizado conforme novos aprendizados, projetos e melhorias visuais forem sendo incorporados.
