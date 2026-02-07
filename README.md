@@ -1,44 +1,84 @@
-# portfolio
+# Portfólio Pessoal
 
-This template should help get you started developing with Vue 3 in Vite.
+Este é o meu **portfólio pessoal**, desenvolvido com **Vue 3**, utilizando **Composition API**, com foco em organização de componentes, responsividade e identidade visual própria.
 
-## Recommended IDE Setup
+O projeto apresenta informações sobre mim, minhas habilidades técnicas e servirá como base para inclusão de projetos e evolução contínua.
 
-[VS Code](https://code.visualstudio.com/) + [Vue (Official)](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+---
 
-## Recommended Browser Setup
+## 📌 Sobre o projeto
 
-- Chromium-based browsers (Chrome, Edge, Brave, etc.):
-  - [Vue.js devtools](https://chromewebstore.google.com/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd)
-  - [Turn on Custom Object Formatter in Chrome DevTools](http://bit.ly/object-formatters)
-- Firefox:
-  - [Vue.js devtools](https://addons.mozilla.org/en-US/firefox/addon/vue-js-devtools/)
-  - [Turn on Custom Object Formatter in Firefox DevTools](https://fxdx.dev/firefox-devtools-custom-object-formatters/)
+Este portfólio foi desenvolvido como parte do meu aprendizado prático em **Vue 3**, aplicando conceitos modernos do framework, como:
 
-## Customize configuration
+- Composition API
+- Componentização
+- Vue Router
+- Layout responsivo
+- Estilização global e escopada
 
-See [Vite Configuration Reference](https://vite.dev/config/).
+O objetivo é ter um projeto **real, funcional e evolutivo**, que represente meu perfil como desenvolvedora.
 
-## Project Setup
+---
 
-```sh
+## 🛠️ Tecnologias utilizadas
+
+- **Vue 3**
+- **Composition API**
+- **Vue Router**
+- **JavaScript**
+- **TypeScript**
+- **HTML5**
+- **CSS3**
+- **Bootstrap Icons**
+- **Devicon**
+- **Vite**
+
+---
+
+## 📂 Estrutura do projeto
+
+```bash
+src/
+ ├─ components/
+ │   └─ Sidebar.vue
+ ├─ views/
+ │   ├─ About.vue
+ │   └─ Projects.vue
+ ├─ assets/
+ │   └─ my-photo.png
+ ├─ router/
+ ├─ App.vue
+ └─ main.js
+```
+
+🎨 Layout e responsividade
+
+- Sidebar fixa no desktop
+- Menu colapsável no mobile
+- Layout adaptado para diferentes tamanhos de tela
+- Estilos globais definidos no App.vue
+- Estilos específicos com scoped
+
+▶️ Como rodar o projeto localmente
+
+Pré-requisitos
+- Node.js (versão 18 ou superior)
+- npm ou yarn
+
+Instalação das dependências
+```bash
 npm install
 ```
 
-### Compile and Hot-Reload for Development
-
-```sh
+Ambiente de desenvolvimento
+```bash
 npm run dev
 ```
 
-### Compile and Minify for Production
-
-```sh
+Build para produção
+```bash
 npm run build
 ```
 
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-npm run lint
-```
+✨ Observações
+Este projeto está em constante evolução e será atualizado conforme novos aprendizados, projetos e melhorias visuais forem sendo incorporados.
