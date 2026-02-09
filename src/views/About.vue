@@ -7,19 +7,16 @@
   <div class="about-container">
     <div class="about-text">
       <h1>Olá, eu sou a <span style="color: #379ab8;">Letícia Avelar</span> </h1>
-      <p>Desenvolvedora | Quality Assurance (QA)</p>
-      <p>Atuo com Java
+      <p>Desenvolvedora Web | Quality Assurance (QA)</p>
+      <p>Entre código, testes e aprendizado constante
         <br />
-        Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quos facilis maxime incidunt est accusamus recusandae
-        laudantium, explicabo mollitia saepe? Perferendis voluptas tempore a odio deserunt cum beatae cupiditate dolor!
-        Harum.
         <br />
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Deleniti vitae sapiente architecto fuga ex qui maiores
-        voluptatem perspiciatis voluptate, corporis explicabo harum blanditiis quas dolore pariatur ipsa temporibus est
-        modi!
+        Atuo entre desenvolvimento e qualidade, com foco em lógica, testes e experiência do usuário.
         <br />
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio quisquam sit recusandae. Voluptatum dicta esse
-        eligendi sed ratione error dolore, animi nemo itaque possimus, quibusdam eaque facere dolorum maiores cumque.
+        Stack principal: HTML, CSS, JavaScript, Vue.js e Git.
+        <br />
+        Experiência com testes funcionais e de regressão, sempre buscando código claro, processos organizados e produtos
+        confiáveis.
       </p>
       <div class="icons-grid">
         <i class="devicon-html5-plain colored"></i>
