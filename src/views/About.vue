@@ -54,11 +54,15 @@
   padding: 2rem;
 }
 
+.about-photo {
+  display: flex;
+  justify-content: center;
+}
+
 .about-photo img {
-  width: 300px;
-  max-width: 90vh;
-  border-radius: 20px;
-  object-fit: cover;
+  width: 100%;
+  max-width: 500px;
+  height: auto;
 }
 
 .icons-grid {

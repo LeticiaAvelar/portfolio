@@ -121,6 +121,7 @@ onBeforeUnmount(() => {
   }
 
   .sidebar {
+    margin-top: 1.5rem;
     width: 150px;
     transform: translateX(-100%);
   }

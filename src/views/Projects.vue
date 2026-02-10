@@ -98,9 +98,10 @@ onMounted(() => {
         <p>{{ projetoSelecionado?.detailedDescription }}</p>
 
         <div class="modal-buttons">
-          <a v-if="projetoSelecionado?.githubUrl" :href="projetoSelecionado.githubUrl" target="_blank"
-            class="btn"><i class="bi bi-github"></i> Código</a>
-          <a v-if="projetoSelecionado?.siteUrl" :href="projetoSelecionado.siteUrl" target="_blank" class="btn"><i class="bi bi-globe"></i> Site</a>
+          <a v-if="projetoSelecionado?.githubUrl" :href="projetoSelecionado.githubUrl" target="_blank" class="btn"><i
+              class="bi bi-github"></i> Código</a>
+          <a v-if="projetoSelecionado?.siteUrl" :href="projetoSelecionado.siteUrl" target="_blank" class="btn"><i
+              class="bi bi-globe"></i> Site</a>
         </div>
       </div>
     </div>
@@ -293,6 +294,7 @@ p {
 
 @media (max-width: 768px) {
   .projects-container {
+    margin-top: 8rem; /* espaço pro botão sanduíche */
     margin-left: 0;
     padding: 1rem;
   }
