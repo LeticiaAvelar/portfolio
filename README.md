@@ -4,6 +4,9 @@ Este é o meu **portfólio pessoal**, desenvolvido com **Vue 3**, utilizando **C
 
 O projeto apresenta informações sobre mim, minhas habilidades técnicas e servirá como base para inclusão de projetos e evolução contínua.
 
+🔗 **Meu Portfolio Online:**  
+https://leticiaavelar.github.io/portfolio
+
 ---
 
 ## 📌 Sobre o projeto
