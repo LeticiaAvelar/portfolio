@@ -13,11 +13,5 @@ import Sidebar from './components/Sidebar.vue'
 </template>
 
 <style>
-html,
-body,
-#app {
-  height: 100%;
-  margin: 0;
-  background-color: #212529; /* Gray 900 */
-}
+
 </style>
