@@ -26,7 +26,6 @@ O objetivo é ter um projeto **real, funcional e evolutivo**, que represente meu
 - **Composition API**
 - **Vue Router**
 - **JavaScript**
-- **TypeScript**
 - **HTML5**
 - **CSS3**
 - **Bootstrap Icons**
@@ -39,16 +38,19 @@ O objetivo é ter um projeto **real, funcional e evolutivo**, que represente meu
 
 ```bash
 src/
- ├─ components/
- │   └─ Sidebar.vue
- ├─ views/
- │   ├─ About.vue
- │   └─ Projects.vue
- ├─ assets/
- │   └─ my-photo.png
- ├─ router/
- ├─ App.vue
- └─ main.js
+├─ components/
+│  └─ Sidebar.vue
+├─ views/
+│  ├─ About.vue
+│  └─ Projects.vue
+├─ assets/
+│  ├─ Projects.js
+│  └─ images/
+│     └─ my-photo.png
+├─ router/
+│  └─ index.js
+├─ App.vue
+└─ main.js
 ```
 
 ---
