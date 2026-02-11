@@ -139,5 +139,23 @@ export const projects = [
     ],
     githubUrl: 'https://github.com/LeticiaAvelar/projeto-yu-gi-oh',
     siteUrl: 'https://leticiaavelar.github.io/projeto-yu-gi-oh/'
+  },
+  {
+    id: 11,
+    title: 'ToDo List',
+    category: 'Cursos',
+    shortDescription: 'Aplicação de lista de tarefas com JavaScript puro.',
+    detailedDescription: 'Projeto de ToDo List desenvolvido com HTML, CSS e JavaScript puro, com foco em manipulação de DOM e lógica de programação. A aplicação permite adicionar, editar, remover, pesquisar e filtrar tarefas, além de persistir os dados no localStorage, garantindo que as informações permaneçam mesmo após atualizar a página.',
+    images: [
+      'assets/todo2.png',
+      'assets/todo1.png',
+      'assets/todo3.png',
+      'assets/todo4.png',
+      'assets/todo5.png',
+      'assets/todo6.png',
+      'assets/todo7.png',
+    ],
+    githubUrl: 'https://github.com/LeticiaAvelar/ToDo-List',
+    siteUrl: 'https://leticiaavelar.github.io/ToDo-List/'
   }
 ]
